@@ -4,14 +4,13 @@ main {
 }
 
 .informacao {
-    width: 40%;
     margin-left: 90px;
 }
 
 .infoText h1 {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 42pt;
+    font-size: 52pt;
     font-weight: 100;
 }
 
@@ -23,6 +22,13 @@ main {
     margin-top: 35px;
 }
 
-strong {
+.span1 {
+    font-family: Oswald, Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+
+.span2 {
     margin-left: 35px;
+    font-family: Montserrat, Arial, Helvetica, sans-serif;
+    font-weight: 200;
 }
