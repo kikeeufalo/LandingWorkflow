@@ -49,3 +49,21 @@ input[type="button"] {
     color: rgb(126, 1, 117);
     font-weight: 600;
 }
+
+input:hover {
+    cursor: pointer;
+    background-color: rgb(255, 231, 253);
+}
+
+/* img */
+
+.divImg {
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
+
+.divImg img {
+    width: 900px;
+    height: 800px;
+}
