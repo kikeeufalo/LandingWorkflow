@@ -32,3 +32,10 @@ main {
     font-family: Montserrat, Arial, Helvetica, sans-serif;
     font-weight: 200;
 }
+
+input[type="button"] {
+    padding: 20px;
+    background-color: rgb(219, 132, 213);
+    border: none;
+    border-radius: 50px;
+}
