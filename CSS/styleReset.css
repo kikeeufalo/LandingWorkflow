@@ -5,5 +5,16 @@
 }
 
 body {
-    background-color: rgb(124, 7, 137);
+    background: linear-gradient(
+        90deg,
+        rgb(100, 5, 110),
+        rgb(137, 9, 151),
+        rgb(142, 16, 156),
+        rgb(124, 7, 137),
+        rgb(118, 5, 131),
+        rgb(122, 12, 134),
+        rgb(122, 15, 134),
+        rgb(142, 16, 156),
+        rgb(131, 16, 143)
+    );
 }
