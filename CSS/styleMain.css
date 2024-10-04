@@ -60,10 +60,14 @@ input:hover {
 .divImg {
     width: 100%;
     display: flex;
-    justify-content: end;
+    justify-content: center;
 }
 
 .divImg img {
-    width: 900px;
-    height: 800px;
+    max-width: 800px;
+    max-height: 800px;
+    width: auto;
+    height: auto;
+    padding: 20px;
+    margin: 40px 20px 40px 0;
 }
