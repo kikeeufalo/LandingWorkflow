@@ -37,14 +37,14 @@ nav div {
     display: flex;
 }
 
-.iscri {
-    border: 1px solid white;
+.ins {
+    border: 2px solid white;
     border-radius: 30px;
 }
 
-.iscri:hover {
-    background-color: rgb(255, 212, 252);
-    color: black;
+.ins:hover {
+    background-color: rgba(255, 212, 252, 0.5);
+    cursor: pointer;
 }
 
 .logoConatiner {
