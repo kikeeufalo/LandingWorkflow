@@ -33,9 +33,19 @@ main {
     font-weight: 200;
 }
 
+.divBtn {
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
+
 input[type="button"] {
     padding: 20px;
-    background-color: rgb(219, 132, 213);
+    background-color: whitesmoke;
     border: none;
-    border-radius: 50px;
+    border-radius: 30px;
+    margin-top: 50px;
+    font-size: 16pt;
+    color: rgb(126, 1, 117);
+    font-weight: 600;
 }
