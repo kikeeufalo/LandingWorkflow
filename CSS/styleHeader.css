@@ -31,7 +31,10 @@ a:active {
 
 nav div {
     display: flex;
-    margin: 10px;
+}
+
+.logoConatiner {
+    margin-left: 60px;
 }
 
 .logo {
@@ -41,6 +44,17 @@ nav div {
 .l1 {
     width: 50px;
     height: 50px;
-    border-radius: 50%;
+    border-radius: 100%;
 }
 
+.l2 {
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+}
+
+.l3 {
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+}
