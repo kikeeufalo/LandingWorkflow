@@ -30,7 +30,17 @@ a:active {
 }
 
 nav div {
-    width: auto;
-    margin-left: 30px;
-    margin-top: 20px;
+    display: flex;
+    margin: 10px;
 }
+
+.logo {
+    background-color: whitesmoke;
+}
+
+.l1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
