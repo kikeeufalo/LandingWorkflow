@@ -21,6 +21,14 @@ a {
     color: white;
 }
 
+a:hover {
+    color: rgb(255, 212, 252);
+}
+
+a:active {
+    color: rgba(255, 212, 252, 0.5);
+}
+
 nav div {
     width: auto;
     margin-left: 30px;
