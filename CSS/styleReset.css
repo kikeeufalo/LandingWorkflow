@@ -13,17 +13,17 @@
 body {
     display: flex;
     justify-content: center;
-    width: 100%;
+    width: 99%;
     background: linear-gradient(
         90deg,
-        rgb(100, 5, 110),
+        rgba(74, 6, 82, 0.843),
         rgb(137, 9, 151),
-        rgb(142, 16, 156),
+        rgb(129, 19, 141),
         rgb(124, 7, 137),
         rgb(118, 5, 131),
         rgb(122, 12, 134),
         rgb(122, 15, 134),
         rgb(142, 16, 156),
-        rgb(131, 16, 143)
+        rgb(96, 13, 105)
     );
 }
