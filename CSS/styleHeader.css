@@ -2,7 +2,6 @@ nav {
     display: flex;
     justify-content: space-between;
     width: 100%;
-    max-width: 1600px;
     padding: 20px;
 }
 
