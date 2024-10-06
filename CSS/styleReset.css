@@ -4,7 +4,16 @@
     font-family: sans-serif;
 }
 
+.container {
+    width: 100%;
+    max-width: 2000px;
+    padding: 0 30px 0 30px;
+}
+
 body {
+    display: flex;
+    justify-content: center;
+    width: 100%;
     background: linear-gradient(
         90deg,
         rgb(100, 5, 110),
