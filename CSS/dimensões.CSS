@@ -1,0 +1,42 @@
+@media(max-width: 1400px) {
+    body {
+        width: 100%;
+    }
+
+    .divImg {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .divImg img {
+        max-width: 700px;
+        max-height: 700px;
+        width: auto;
+        height: auto;
+        margin: 0;
+        padding: 0;
+        margin-left: 50px;
+    }
+
+    main {
+        justify-content: center;
+        display: block;
+    }
+
+    .infoText {
+        text-align: center;
+    }
+
+    p {
+        margin: 0 auto;
+    }
+    
+    .divBtn {
+        justify-content: center;
+    }
+
+    br {
+        display: none;
+    }
+}
