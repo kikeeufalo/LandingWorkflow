@@ -67,11 +67,18 @@
         text-align: center;
     }
 
-    li {
-        
+    .informacao {
+        margin: 0;
     }
+    
 }
 
 @media(max-width: 750px) {
-    
+    .divImg {
+        display: none;
+    }
+
+    br {
+        display: block;
+    }
 }
