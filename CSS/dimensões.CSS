@@ -42,5 +42,36 @@
 }
 
 @media(max-width: 1150px) {
+    nav {
+        display: block;
+    }
+
+    ul {
+        justify-content: center;
+    }
+
+    .logoConatiner {
+        margin: 0;
+        justify-content: center;
+    }
+
+    .logoConatiner p {
+        margin: 35px 0 0 0;
+    }
+
+}
+
+@media(max-width: 920px) {
+    ul {
+        display: block;
+        text-align: center;
+    }
+
+    li {
+        
+    }
+}
+
+@media(max-width: 750px) {
     
 }
