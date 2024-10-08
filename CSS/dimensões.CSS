@@ -46,6 +46,10 @@
         display: block;
     }
 
+    .logoC {
+        padding: 15px;
+    }
+
     ul {
         justify-content: center;
     }
@@ -62,9 +66,23 @@
 }
 
 @media(max-width: 920px) {
+    nav {
+        padding: 0;
+    }
+
+    a {
+        text-shadow: 1px 6px 10px black;
+    }
+
     ul {
         display: block;
         text-align: center;
+        width: 200px;
+        margin: 0 auto;
+    }
+
+    .container {
+        padding: 0;
     }
 
     .informacao {
