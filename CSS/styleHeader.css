@@ -23,6 +23,11 @@ a {
     text-decoration: none;
     color: white;
     padding: 5px;
+    text-shadow: 10px 6px 10px black;
+}
+
+.col {
+    text-shadow: none;
 }
 
 a:hover {
@@ -31,6 +36,7 @@ a:hover {
 
 a:active {
     color: rgba(255, 212, 252, 0.5);
+    text-shadow: none;
 }
 
 nav div {
@@ -51,6 +57,13 @@ nav div {
     margin-left: 60px;
     padding: 10px;
     margin-top: 5px;
+}
+
+.logoC {
+    
+    border: 2px solid whitesmoke;
+    padding: 5px;
+    border-radius: 50px;
 }
 
 .logo {
