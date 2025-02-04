@@ -1,2 +1,2 @@
 # landingWorkflow
- Landing Page Business Workflow
+ Landing Page Business Workflow, uma página de pouso.
